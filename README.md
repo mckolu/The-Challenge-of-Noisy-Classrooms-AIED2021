@@ -1,4 +1,4 @@
-<h1>Detecting Speakers in Noisy-Classrooms</h1>
+<h1>Detecting Speakers in Noisy Environments</h1>
 
 <p>This is the repository for our research paper accepted at the International Conference on Artificial Intelligence in Education (AIED'21)</h1>
  
