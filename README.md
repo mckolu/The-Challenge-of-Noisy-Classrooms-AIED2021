@@ -9,7 +9,6 @@
 <h3>Citation</h3>
 <pre></pre>
 
-
 <h2>Prerequisites</h2>
 <p>Basics</p>
 <pre>
@@ -25,6 +24,7 @@ librosa 0.8.0
 <pre>
 tensowflow-gpu 2.1.0
 keras 2.3.1
+
 </pre>
 
 <h2>Structure (Keep Updating...)</h2>
