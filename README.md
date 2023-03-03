@@ -11,8 +11,8 @@
 <!-- <h3>Citation</h3> -->
 <!-- <pre></pre> -->
 
-<h2>Prerequisites</h2>
-<p>Basics</p>
+<h2> Prerequisites </h2>
+<p>Basics </p>
 <pre>
 Python3 
 CPU or NVIDIA GPU + CUDA CuDNN
